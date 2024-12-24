@@ -1,8 +1,8 @@
-# Creative AI Prompt and Image Generation Suite
+# Ollama + Meta + ComfyUI Python Loop
 
 ## Overview
 
-Welcome to the Creative AI Prompt and Image Generation Suite! This application is designed to harness the power of artificial intelligence to generate creative text prompts and transform them into stunning images. By leveraging modern AI models and innovative Low-Rank Adaptation (LoRA) techniques, this suite empowers users to explore new creative possibilities.
+Welcome to the Creative AI Prompt and Image Generation! This application is designed to harness the power of artificial intelligence to generate creative text prompts and transform them into stunning images. By leveraging modern AI models and innovative Low-Rank Adaptation (LoRA) techniques, this suite empowers users to explore new creative possibilities.
 
 ## How It Works
 
